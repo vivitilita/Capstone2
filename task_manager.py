@@ -7,7 +7,7 @@
 
 # Import the datetime and date from datetime module to access the date
 from datetime import datetime, date
-
+# Constant variable
 DATETIME_STRING_FORMAT = ' %d %m %Y'
 
 # Main Programme
